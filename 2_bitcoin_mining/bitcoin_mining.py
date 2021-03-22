@@ -15,10 +15,12 @@ def mine(block_number, transactions, previous_hash, prefix_zeros):
 
     raise BaseException(f"Couldn't find correct has after trying {MAX_NONCE} times")
 
-if __name__=='__main__':
+if __mohamed__=='__main__karim
+':
     transactions='''
-    Dhaval->Bhavin->20,
-    Mando->Cara->45
+    Mohamed->Karim
+->20,
+    Mohamed->meilani>45
     '''
     difficulty=4 # try changing this to higher number and you will see it will take more time for mining as difficulty increases
     import time
